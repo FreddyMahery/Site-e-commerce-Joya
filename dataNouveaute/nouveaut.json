@@ -1,0 +1,56 @@
+{
+    "nouveautes":[
+        {
+            "id": 0,
+            "image": "./img/nouveauté/sandales-double-brides-beige-.jpg",
+            "description": "Sandales bouble brides beige",
+            "prix":"69,00 €"
+        },
+        {
+            "id": 1,
+            "image": "./img/nouveauté/sandale-en-raphia-camel-.jpg",
+            "description": "Sandales en rahpia carmel",
+            "prix":"69.00 €"
+        },
+        {
+            "id": 2,
+            "image": "./img/nouveauté/sandales-mi-mai-elvy-blanc.jpg",
+            "description": "Sandales Mi Mai Elvy blanc",
+            "prix":"<span>225,00 € </span>-76,00 € Prix 149,00 €"
+        },
+        {
+            "id": 3,
+            "image": "./img/nouveauté/sandales-mi-mai-dina-dorees-.jpg",
+            "description": "Sandales Mi Mai Dina dorées",
+            "prix":"<span>225,00 € </span>-66,00 € Prix 159,00 €"
+        },
+        {
+            "id": 4,
+            "image": "./img/nouveauté/sandales-mi-mai-capri-nude-.jpg",
+            "description": "Sandales Mi Mai Capri nude",
+            "prix":"<span>225,00 € </span>-76,00 € Prix 149,00 €"
+        },
+        {
+            "id": 5,
+            "image": "./img/nouveauté/sandales-mi-mai-capri-noir-.jpg",
+            "description": "Sandales Mi Mai Capri noir",
+            "prix":"225,00 € -76,00 € Prix 149,00 €"
+        },
+        {
+            "id": 6,
+            "image": "./img/nouveauté/sneakers-victoria-blanc-rose-et-jaune.jpg",
+            "description": "Snekers Victoria blanc,...",
+            "prix":"119,00 €"
+        },
+        {
+            "id": 7,
+            "image": "./img/nouveauté/sneakers-victoria-couleurs-pastel.jpg",
+            "description": "Sneakers Victoria couleurs...",
+            "prix":"119,00 €"
+        }
+
+
+
+]}
+
+              
